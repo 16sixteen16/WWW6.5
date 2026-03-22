@@ -3,7 +3,7 @@ pragma solidity ^0.8.0;
 
 /**
  * @title GasOptimizedVoting
- * @dev Implementation of Day 14: Bitwise operations, Struct packing, and Fixed-size types
+ * @dev Implementation of Day 15: Bitwise operations, Struct packing, and Fixed-size types
  */
 contract GasOptimizedVoting {
     
